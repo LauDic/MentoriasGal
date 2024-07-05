@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lauta/OneDrive/Documentos/Unreal Projects/StackOBot/Content/StackOBot/Blueprints/GameElements/BP_PressurePlate.uasset",
+				"C:/Users/lauta/OneDrive/Documentos/Unreal Projects/StackOBot/Content/StackOBot/Blueprints/Character/BP_Bot.uasset"
+			]
+		}
+	]
+}
